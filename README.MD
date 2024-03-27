@@ -16,7 +16,7 @@ So Here are the scripts and their purposes
 
 ## SyncSystemEnvPathToCMD.bat
 
-![](https://github.com/DanTheWizard/My-Batch-Script-Tricks/gifsSyncSystemEnvPathToCMD.gif)
+![](https://github.com/DanTheWizard/My-Batch-Script-Tricks/blob/main/gifs/SyncSystemEnvPathToCMD.gif)
 
 
 Don't you hate that after a system environmental variable you have to somehow find a way of launching a script file with the new environmental variables?
