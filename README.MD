@@ -24,4 +24,4 @@ This script basically fixes that.
 
 I still have to play around with it to know whether it can be used  as a call argument (ex: call :syncevpath), but otherwise, it can be used as many times in the script directly.
 
-**Note:** This does not modify the system environmental variable, it only reads it and sets the current running console's path variable to the updated one.
+**Note:** This does not modify the system environmental variable, it only reads it and sets the current running console's path variable to the latest one.
