@@ -19,8 +19,8 @@ So Here are the scripts and their purposes
 Don't you hate that after a system environmental variable you have to somehow find a way of launching a script file with the new environmental variables?
 
 This script basically gets the latest environmental variables from the registry and sets them to the current batch script path variable to be used.
-In other words, say you install a version of an app, and you don't know where it was installed, and you need to run it as if it was already part of the path in the next command.
-This script basically fixes that.
+In other words, say you install a version of an app, and you don't know where it was installed, and you need to run it as if it was already part of the path in the next command...
+This script basically fixes that small problem.
 
 I still have to play around with it to know whether it can be used  as a call argument (ex: call :syncevpath), but otherwise, it can be used as many times in the script directly.
 
